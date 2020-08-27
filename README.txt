@@ -1,8 +1,3 @@
-PACKAGE
-
-package goautoneg
-import "bitbucket.org/ww/goautoneg"
-
 HTTP Content-Type Autonegotiation.
 
 The functions in this package implement the behaviour specified in
@@ -61,7 +56,3 @@ type Accept struct {
 }
 Structure to represent a clause in an HTTP Accept Header
 
-
-SUBDIRECTORIES
-
-	.hg
